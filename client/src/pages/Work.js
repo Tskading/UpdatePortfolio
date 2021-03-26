@@ -5,14 +5,14 @@ import projects from "../utils/projects.json";
 function Work () {
     const [project, setProject] = useState(projects)
     return (
-        <div className= "workPage">
+        <div className= "workPage mb-5">
             <h1>
                 My Work
             </h1>
             <div className="row">
             {project.map(work => {
                 return (
-                    <div className="col-sm-4">
+                    <div className="col-sm-4 mb-5">
                         <ProjectCard work={work} />
                     </div>
                 )

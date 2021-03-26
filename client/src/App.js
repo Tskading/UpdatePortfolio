@@ -46,6 +46,7 @@ function App() {
            <Route exact path="/ContactMe" component={ContactMe} />
            <Route exact path="/Resume" component={Resume} />
            <Route exact path="/Work" component={Work} />
+           {/* <Route exact path="/About" component={About} /> */}
          </Router>
       
       <Footer />

@@ -4,13 +4,19 @@ function Resume (props) {
 
     return (
         <>
+        <div>
             <h1 className= "resumePage" >
-                TSK Resume 
+               
+                <a className="resumeText" target="_blank" href="/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
             </h1 >
-            <a className="resumeText" target="_blank" href="/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
+            <div class="container">
+            
+            </div>
             <br></br>
             <br></br>
             <br></br>
+
+        </div>
         </>
     )
 }

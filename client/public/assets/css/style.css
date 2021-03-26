@@ -3,6 +3,9 @@
   color: #C5c6c7 ;
   overflow: hidden;
 }
+body {
+  height: 100vh;
+}
 
 .footer {
     position: fixed;
@@ -87,7 +90,7 @@
 }
 
 .resumePage {
-  height: 50vh;
+  height: 40vh;
 }
 
 
