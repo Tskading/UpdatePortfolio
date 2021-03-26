@@ -32,7 +32,7 @@ function App() {
     else if (pathName.includes("test")) {
       return <Test />;
     }
-    else {
+    else { (pathName.includes(""))
       return <About />; 
     }
              
