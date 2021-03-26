@@ -7,7 +7,8 @@ function Resume (props) {
             <h1 className= "resumePage" >
                 TSK Resume 
             </h1 >
-            <a className="resumeText" target="_blank" href="/updateportfolio/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
+            <a className="resumeText" target="_blank" href="/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
+            <br></br>
             <br></br>
             <br></br>
         </>
