@@ -1,5 +1,12 @@
 [
     {
+        "name": "Progressing",
+        "img": "/assets/img/Progressing.png",
+        "liveHref": "https://progressing-pod10.herokuapp.com/home",
+        "hubHref": "https://github.com/JJHPhoto/progressing",
+        "description": "Progressing is a goal setting app.  We have given you the tools necessary to create and manage your own goals."
+    },
+    {
         "name": "SongBirdie",
         "img": "/assets/img/SongBirdie.png",
         "liveHref": "http://song-birdie.herokuapp.com/",
@@ -26,14 +33,7 @@
         "liveHref": "https://employee-directory-tsk.herokuapp.com/",
         "hubHref": "https://github.com/Tskading/Employee-Directory",
         "description": "The Employee Directory is the first React application I built.  And shows whats possible when given React and a dataset."
-    },
-    {
-        "name": "Budget Tracker",
-        "img": "/assets/img/BTscreenshot.png",
-        "liveHref": "https://fast-eyrie-35371.herokuapp.com/",
-        "hubHref": "https://github.com/Tskading/BudgetTracker",
-        "description": "Simple Budget Tracker with offline functionality.  Keep adding transactions while offline, and they will update when online again."
-    },
+    },    
     {
         "name": "Password Generator",
         "img": "/assets/img/passwordGenerator.png",
