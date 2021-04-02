@@ -7,35 +7,7 @@ import Resume from "./pages/Resume";
 import Footer from "./components/Footer";
 import {BrowserRouter as Router, Route} from "react-router-dom";
 
-function App() {
-
- 
-
-  // const displayPage = () => {
-  //   console.log(pathName);
-  //   if (pathName.includes("about")) {
-       
-  //       return <About />;
-  //   }
-  //   else if (pathName.includes("work")){
-  //     return <Work />;
-  //   }
-  //   else if (pathName.includes("contactme")){
-  //     return <ContactMe />;
-  //   }
-  //   else if (pathName.includes("resume")) {
-  //     return <Resume />;
-
-  //   }
-  //   else if (pathName.includes("test")) {
-  //     return <Test />;
-  //   }
-  //   else {
-  //     return <About />; 
-  //   }
-             
-  //   }
-  
+function App() { 
 
   return (
     <div className="App">
@@ -46,7 +18,6 @@ function App() {
            <Route exact path="/ContactMe" component={ContactMe} />
            <Route exact path="/Resume" component={Resume} />
            <Route exact path="/Work" component={Work} />
-           {/* <Route exact path="/About" component={About} /> */}
          </Router>
       
       <Footer />

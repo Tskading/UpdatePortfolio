@@ -70,6 +70,7 @@ body {
 
   .resumeText {
     color: #C5c6c7;
+    font-size: 1.5rem;
   }
 
   .projBody {
@@ -78,11 +79,11 @@ body {
 
 .contactMe {
   color: #C5c6c7 !important;
-
+  font-size: 1.5rem;
  }
 
 .aboutMe {
-  height: 100vh;
+  height: 100vh !important;
 }
 
 .contactMe {
@@ -93,4 +94,86 @@ body {
   height: 40vh;
 }
 
+#hamburger {
+  display: none;
+}
 
+#myLinks {
+  display: none;
+}
+
+.myHeader {
+  display: block;
+
+}
+
+
+@media only screen and (max-width: 425px){
+	#hamburger {
+    height: 20px !important;
+    width: 20px !important;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: block;
+    color: #45a29e;
+    }
+
+    .display-4 {
+      font-size: 2.3rem !important;
+      text-align: center;
+    }
+
+  .myHeader {
+      display: none;
+
+  }
+
+  .hamburger {
+    height: 200px;
+    width: 200px !important;
+  }
+
+  /* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  background-color: #0B0C10;
+
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+}
