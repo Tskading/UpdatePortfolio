@@ -4,41 +4,47 @@
         "img": "/assets/img/Progressing.png",
         "liveHref": "https://progressing-pod10.herokuapp.com/home",
         "hubHref": "https://github.com/JJHPhoto/progressing",
-        "description": "Progressing is a goal setting app.  We have given you the tools necessary to create and manage your own goals."
+        "description": "Progressing is a goal managment app.  Create, update, and mangage your own goals, with a little help from Progressing.",
+        "badges": "https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
     },
     {
         "name": "SongBirdie",
         "img": "/assets/img/SongBirdie.png",
         "liveHref": "http://song-birdie.herokuapp.com/",
         "hubHref": "https://github.com/Bryson-Palmer/song-bird",
-        "description": "SongBirdie is a collaboration project that allows you to have a personal, mobile songbook at your fingertips."
+        "description": "SongBirdie is a collaboration project that allows you to have a personal, mobile songbook at your fingertips.",
+        "badges": "https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"
     },
     {
         "name": "Daily Planner",
         "img": "/assets/img/dailyPlanner.png",
         "liveHref": "https://tskading.github.io/Daily-Planner/",
         "hubHref": "https://github.com/Tskading/Daily-Planner",
-        "description": "The Daily Planner is a simple work-day tracker.  It lets you organize your day - everyday."
+        "description": "The Daily Planner is a simple work-day tracker.  It lets you organize your day - everyday.",
+        "badges": "https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"
     },
     {
         "name": "Game & GIF",
         "img": "/assets/img/gameAndGif.png",
         "liveHref": "https://tskading.github.io/Game-Meme/",
         "hubHref": "https://github.com/Tskading/Game-Meme",
-        "description": "Game and GIF was my first collaboration project, a website that allows you to explore one game at depth."
+        "description": "Game and GIF was my first collaboration project, a website that allows you to explore one game at depth.",
+        "badges": "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     },
     {
         "name": "Employee Directory",
         "img": "/assets/img/EmployeeDirectory.png",
         "liveHref": "https://employee-directory-tsk.herokuapp.com/",
         "hubHref": "https://github.com/Tskading/Employee-Directory",
-        "description": "The Employee Directory is the first React application I built.  And shows whats possible when given React and a dataset."
+        "description": "The Employee Directory is the first React application I built.  And shows whats possible when given React and a dataset.",
+        "badges": "https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"
     },    
     {
         "name": "Password Generator",
         "img": "/assets/img/passwordGenerator.png",
         "liveHref": "https://tskading.github.io/Password-Generator/",
         "hubHref": "https://github.com/Tskading/Password-Generator",
-        "description": "My Password Generator isn't groundbreaking - but I like keep it around as a reminder of how far I have come in my development journey."
+        "description": "My Password Generator isn't groundbreaking - but I like keep it around as a reminder of how far I have come in my development journey.",
+        "badges": "https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     }
 ]

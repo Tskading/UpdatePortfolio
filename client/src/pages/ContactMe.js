@@ -9,6 +9,7 @@ function ContactMe () {
             <div className="col-sm-10 contactMe">
 
             <ul id="linkedIn">
+                    
                     <a className="contactMe" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/thomas-kading/"
                       >LinkedIn</a
                     >
@@ -18,19 +19,16 @@ function ContactMe () {
                   <ul id="email">
                     <a className="contactMe" target="_blank" rel="noreferrer"
                       href="mailto: tskading@gmail.com?subject = Introduction = Message"
-                      >Tskading@gmail.com</a
+                      >tskading@gmail.com</a
                     >
                   </ul>
 
                   <ul id="github">
-                    <a className="contactMe" target="_blank" rel="noreferrer" href="https://github.com/Tskading">Github</a>
+                    <a className="contactMe" target="_blank" rel="noreferrer" href="https://github.com/Tskading">GitHub</a
+                    >
                   </ul>
 
-                  <ul id="phonenumber">
-                    <a className="contactMe" target="_blank" rel="noreferrer" href="#/">512-619-3491</a>
-                  </ul>
-
-                  <ul id="spotify">
+                  <ul id="spotify text-muted">
                     <a className="contactMe" target="_blank" rel="noreferrer"
                       href="https://open.spotify.com/user/7rqb6tknhd780o8gs7ap5g7wq?si=Z0UfA4JPRwmUNjYjg6JJtA"
                       >Spotify</a

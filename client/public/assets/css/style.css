@@ -83,7 +83,7 @@ body {
  }
 
 .aboutMe {
-  height: 100vh !important;
+  height: 90vh !important;
 }
 
 .contactMe {
@@ -91,7 +91,7 @@ body {
 }
 
 .resumePage {
-  height: 40vh;
+  height: 48vh;
 }
 
 #hamburger {
@@ -109,6 +109,15 @@ body {
 
 
 @media only screen and (max-width: 425px){
+
+  .aboutMe {
+    height: 130vh !important;
+  }
+
+  .contactMe {
+    height: 60vh;
+  }
+
 	#hamburger {
     height: 20px !important;
     width: 20px !important;

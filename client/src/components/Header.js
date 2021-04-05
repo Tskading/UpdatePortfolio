@@ -15,12 +15,12 @@ function Header({}) {
   return (
     <>
 
-      <h1 className="display-4">Thomas Samuel Kading</h1>
+      <h1 className="display-4 mx-2">Thomas Samuel Kading</h1>
 
-      <div className="myHeader">
+      <div className="myHeader mb-1">
         
 
-        <hr className="my-4" />
+        <hr className="my-2" />
         <div >
         <a className="btn-lg linkBtn" href="/" role="button">
           About Me
@@ -48,7 +48,7 @@ function Header({}) {
           <a href="/">About Me</a>
           <a href="/Work">Work</a>
           <a href="/Contactme">Contact Me</a>
-          <a href="/Resume">About</a>
+          <a href="/Resume">Resume</a>
         </div>
         
       </div>

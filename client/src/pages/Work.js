@@ -5,7 +5,7 @@ import projects from "../utils/projects.json";
 function Work () {
     const [project, setProject] = useState(projects)
     return (
-        <div className= "workPage ml-3 mb-5">
+        <div className= "workPage mx-3 mb-5">
             <h1>
                 My Work
             </h1>

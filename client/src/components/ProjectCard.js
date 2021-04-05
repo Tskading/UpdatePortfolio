@@ -7,7 +7,11 @@ function ProjectCard(props) {
   <img src={props.work.img} className="card-img-top" alt="Project Screenshot" style={{"object-fit": "cover", "max-height": "250px"}}/>
   <div className="card-body projBody">
     <h5 className="card-title">{props.work.name}</h5>
-    <p className="card-text">{props.work.description}</p>
+    <p className="card-text">{props.work.description}
+    <br></br>
+      <img alt="badge" className="badges mt-1" src={props.work.badges}></img>
+    </p>
+    
     <a target="_blank" rel="noreferrer" href={props.work.liveHref} className="btn btn-primary">Live Page</a>
     <a target="_blank" rel="noreferrer" href={props.work.hubHref} className="btn btn-primary">Github Page</a>
   </div>
