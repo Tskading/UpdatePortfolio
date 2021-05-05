@@ -7,7 +7,7 @@ function Resume (props) {
         <div>
             <h1 className= "resumePage ml-3" >
                
-                <a className="resumeText" target="_blank" href="/assets/resume/TSKResume.pdf">Click here to grab a copy of my resume, thanks!</a>
+                <a className="resumeText" target="_blank" href="/assets/resume/ThomasSamuelKadingResume.pdf">Click here to grab a copy of my resume, thanks!</a>
             </h1 >
             <div class="container">
             
