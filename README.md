@@ -7,6 +7,8 @@ My Portfolio's default home page is the About Me information - on desktop you wi
 
 ## Links and Screenshots
 
-![Desktop Portfolio](../client/public/assets/img/desktopWork.png)
+https://tskportfolioreact.herokuapp.com/
 
-![Mobile Portfolio](../client/public/assets/img/mobileWork.png)
+![Desktop Portfolio](/client/public/assets/img/desktopWork.png)
+
+![Mobile Portfolio](/client/public/assets/img/mobileWork.png)
